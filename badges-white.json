@@ -19,7 +19,7 @@
       "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-1080p.svg",
       "isEnabled": true,
       "name": "1080p",
-      "pattern": "(?i)^(?!.*(?:2160[pi]?|4k|uhd|1440[pi]?|2k|720[pi]?|576[pi]?|480[pi]?|360[pi]?|240[pi]?|144[pi]?)).+",
+      "pattern": "⁠",
       "tagColor": "#00000000",
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
