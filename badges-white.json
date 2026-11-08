@@ -331,7 +331,7 @@
       "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-H264.svg",
       "isEnabled": true,
       "name": "H.264",
-      "pattern": "(?i)\\b(?:avc|h[\\s._-]?264|x264)\\b",
+      "pattern": "(?i)(?:\\b(?:avc|h[\\s._-]?264|x264)\\b|⁣)",
       "tagColor": "#00000000",
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
