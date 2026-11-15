@@ -136,7 +136,7 @@
       "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-webrip.svg",
       "isEnabled": true,
       "name": "WebRip",
-      "pattern": "(?i)^(?=.*\\brip\\b|.*\\bweb[-_. ]?rip\\b|.*\\bhd[-_. ]?rip\\b)(?!.*\\b(?:bd|br)[-_. ]?rip\\b)(?!.*\\bdvd[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?tc[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?ts[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?cam[-_. ]?rip\\b)(?!.*\\btc\\b)(?!.*\\btelecine\\b)(?!.*\\bhdtc\\b)(?!.*\\bts\\b)(?!.*\\btelesync\\b)(?!.*\\bhdts\\b|⁡)",
+      "pattern": "(?i)^(?=.*\\brip\\b|.*\\bweb[-_. ]?rip\\b|.*\\bhd[-_. ]?rip\\b)(?!.*\\b(?:bd|br)[-_. ]?rip\\b)(?!.*\\bdvd[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?tc[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?ts[-_. ]?rip\\b)(?!.*\\b(?:hd[-_. ]?)?cam[-_. ]?rip\\b)(?!.*\\btc\\b)(?!.*\\btelecine\\b)(?!.*\\bhdtc\\b)(?!.*\\bts\\b)(?!.*\\btelesync\\b)(?!.*\\bhdts\\b)",
       "tagColor": "#00000000",
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
