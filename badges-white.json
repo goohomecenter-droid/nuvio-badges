@@ -6,7 +6,7 @@
       "imageURL": "https://cdn.jsdelivr.net/gh/sweatycab/nuvio-minimalist-badges@main/badges/white-4k.svg",
       "isEnabled": true,
       "name": "4K",
-      "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
+      "pattern": "(?i)\\b(?:2160[pi]?|4k|uhd)\\b",
       "tagColor": "#00000000",
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
